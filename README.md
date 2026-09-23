@@ -6,6 +6,19 @@ This project is a realistic enterprise network designed and implemented using Ci
 
 The goal of the project is to simulate a small company's network infrastructure, including network segmentation, routing, security, NAT/PAT, and firewall configuration.
 
+## Project Highlights
+
+* Designed a multi-router enterprise network topology.
+* Implemented VLAN segmentation for Employees, Servers, and Guests.
+* Configured Router-on-a-Stick for inter-VLAN routing.
+* Implemented DHCP for multiple internal networks.
+* Configured OSPF for dynamic routing between network devices.
+* Implemented NAT/PAT on Cisco ASA.
+* Configured ASA firewall rules and outside ACLs.
+* Implemented SSH-based device management.
+* Configured switch Port Security with sticky MAC addresses.
+* Tested and troubleshot end-to-end connectivity.
+
 ## Technologies Used
 
 * Cisco Packet Tracer
