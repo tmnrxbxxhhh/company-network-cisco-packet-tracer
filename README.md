@@ -136,3 +136,20 @@ Through this project, I practiced:
 * SSH device management
 * Switch Port Security
 * Network troubleshooting using packet flow and simulation
+## Verification
+
+### OSPF
+
+![OSPF Neighbor](screenshots/ospf-neighbor.png)
+
+### NAT/PAT
+
+![NAT/PAT Configuration](screenshots/nat-pat-config.png)
+
+### ASA Firewall ACL
+
+![Firewall ACL](screenshots/firewall-acl.png)
+
+### End-to-End Connectivity
+
+![Connectivity Test](screenshots/connectivity.png)
