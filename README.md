@@ -140,7 +140,7 @@ Through this project, I practiced:
 
 ### OSPF
 
-![OSPF Neighbor](screenshots/ospf-neighbor.png)
+![OSPF Neighbor](screenshots/ospf-neighbor-CORE-R1.png)
 
 ### NAT/PAT
 
