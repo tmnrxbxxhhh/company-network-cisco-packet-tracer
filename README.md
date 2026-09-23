@@ -166,3 +166,11 @@ Through this project, I practiced:
 ### End-to-End Connectivity
 
 ![Connectivity Test](screenshots/connectivity.png)
+
+## Project Status
+
+**Completed**
+
+The network was implemented, secured, tested, and documented using Cisco Packet Tracer.
+
+This project is part of my practical networking portfolio and focuses on enterprise network design, routing, security, NAT/PAT, and troubleshooting.
